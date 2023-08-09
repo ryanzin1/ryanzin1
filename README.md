@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Trabalhando como auxiliar de TI.
-- 🌱 Estudando Java Script
-- 👯 Cursando Faculdade de Engenharia de Software
+- 🔭 Trabalhando como auxiliar de Contabilidade no momento.
+- 🌱 Estudando Programação
+- 👯 Cursando Analise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/ryanzin1">

@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando como auxiliar de Contabilidade no momento.
 - 🌱 Estudando Programação
-- 👯 Cursando Analise e desenvolvimento de sistemas
+- 👯 Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/ryanzin1">

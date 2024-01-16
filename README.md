@@ -2,9 +2,7 @@
 
 
 
-- 🔭 Trabalhando como auxiliar de Contabilidade no momento.
-- 🌱 Estudando Programação
-- 👯 Engenharia de Software
+- 👯 Cursando Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/ryanzin1">

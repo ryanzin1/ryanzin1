@@ -2,7 +2,7 @@
 
 
 
-- 👯 Cursando Engenharia de Software
+
 
 <div align="center">
   <a href="https://github.com/ryanzin1">
